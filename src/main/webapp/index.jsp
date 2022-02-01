@@ -3,7 +3,7 @@
 	<h2>Welcome to GCUBANK Guntur</h2>
 </body>
 <h1>
-	<font size="6" face="verdana" color="Green"> <marquee>Hello
+	<font size="6" face="verdana" color="yellow"> <marquee>Hello
 			Amar...</marquee>
 	</font>
 </h1>
