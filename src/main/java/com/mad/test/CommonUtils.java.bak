@@ -10,8 +10,4 @@ public class CommonUtils {
 		System.out.println();
 		return"Madhav";
 	}
-
-	public void test(){
-		System.out.println("added changes in feture branch 312..");
-	}
 }
