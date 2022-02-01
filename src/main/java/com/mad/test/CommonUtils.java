@@ -2,8 +2,8 @@ package com.mad.test;
 
 public class CommonUtils {
 	
-	public void encode() {
-		System.out.println("pwd encoding...");
+	public void encode(String usename) {
+		System.out.println("pwd encoding..."+usename);
 	}
  
 	public String decode(String pwd) {
