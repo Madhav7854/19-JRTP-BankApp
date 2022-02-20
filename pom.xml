@@ -3,6 +3,7 @@
 	<groupId>Demo1</groupId>
 	<artifactId>Demo1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<!--maven -->
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.logging.log4j</groupId>
